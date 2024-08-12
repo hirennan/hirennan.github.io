@@ -60,6 +60,10 @@
     color: #999;  
 }
 
+.tech-logos {
+    margin-left: 20px;
+}
+
 @media (max-width: 980px) {
     .divide h1 {
         margin-left: 0px;
