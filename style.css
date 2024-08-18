@@ -153,7 +153,7 @@
 }
 
 
-#articles h1{
+#purpose h1{
     margin-left: 40px;
     font-size: 48px;
     /* font-weight: normal; */
@@ -194,8 +194,11 @@
         /* display: inline-block; */
         width: 240px;   
     }
-    #articles h1 {
+    #purpose h1 {
         margin-left: 20px;
+    }
+    #work h1 {
+        margin-left: 0px;
     }
     
 }
